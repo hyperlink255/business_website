@@ -1256,7 +1256,7 @@ border:5px solid var(--back-box);
         align-items: flex-start;
     }
     nav{
-        background: #fff;
+        background:#07151e;
         padding: 15px 20px;
         position: static;
     }
@@ -1368,5 +1368,14 @@ border:5px solid var(--back-box);
     .service-content-box .col-3{
         width: 100%;
        }
-    
+      h4{
+        font-size: 1rem;
+      }
+      .service-icon {
+        width: 45px;
+        height: 45px;
+      }
+      .justify-content .btn-1{
+        margin-top: -25px;
+      }
 }
