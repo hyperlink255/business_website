@@ -1366,6 +1366,9 @@ border:5px solid var(--back-box);
     .owl-carousel .item .border{
         gap:1rem;
     }
+    #hero-section button{
+        display: none;
+    }
 }
 @media screen and (max-width:421px){
     .service-content-box .col-3{
@@ -1385,4 +1388,5 @@ border:5px solid var(--back-box);
         gap:1rem !important;
         justify-content: start !important;
       }
+      
 }
