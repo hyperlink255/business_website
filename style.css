@@ -1231,6 +1231,9 @@ border:5px solid var(--back-box);
         padding-bottom: 1rem;
 
        }
+       .latest-content .md-3{
+        justify-content: start;
+       }
 }
 
 
@@ -1377,5 +1380,9 @@ border:5px solid var(--back-box);
       }
       .justify-content .btn-1{
         margin-top: -25px;
+      }
+      .latest-content .md-3{
+        gap:1rem !important;
+        justify-content: start !important;
       }
 }
